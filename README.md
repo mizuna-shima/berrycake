@@ -200,7 +200,8 @@ WordPressで使いたい場合のみご利用ください。WordPressへのイ�
 <br>
 
 これで導入完了です。
-特殊な変換は [Berrycake.jsのカスタム変換](Custom.md) をご覧ください。
+特殊な変換は [Berrycake.jsのカスタム変換](Custom.md) をご覧ください。  
+使い方やライセンスに関するQ&Aは [Berrycake.jsのQ&A](FandA.md) をご覧ください。
 
 ## 免責事項
 
