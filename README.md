@@ -1,3 +1,5 @@
+![note_berrycake](https://github.com/user-attachments/assets/f29507f9-ca5c-467e-a94a-e0fa15bf569a)
+
 # Berrycake.js
 
 **Berrycake.js** は、設定ファイルと JavaScript で動かす名前変換スクリプトです。<br>
