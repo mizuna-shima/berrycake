@@ -99,14 +99,18 @@ WordPressで使いたい場合のみご利用ください。WordPressへのイ�
    - berrycake_recipe.confを上書き保存するときは文字コードを「UTF-8」にしてください。
 
 2. **`berrycake.js` と `berrycake_recipe.conf` を同じ場所にアップロード**  
-   たとえば以下のようなディレクトリ構成にしてください:
+  ご自身のWebサイトの任意の場所にサンプルファイルをコピーします。<br>
+  JavaScriptやCSSをフォルダ分けしている方はご自身で決めたフォルダへ、フォルダ分けがよくわからないという方はWebサイトフォルダの中にberrycakeフォルダの中身をそのままコピーしてください。<br>
+  そのままコピーした場合は以下の構成になります。
    ```
    /Webサイトフォルダ/
      ├─ berrycake.js
      ├─ berrycake_recipe.conf
      ├─ berrycake.html
-     └─ ...
+     ├─ sample.html
+     └─ berrycake.css
    ```
+   ※berrycake.js と berrycake_recipe.conf は同じフォルダにアップロードしてください。
 
 3. **名前登録ページ「berrycake.html」でberrycake.jsファイルを読み込み**
 
